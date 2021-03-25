@@ -1,0 +1,7 @@
+Package: EpitopeFinder
+Type: Package
+Title: Transmembrane prediction and Epitope Mapper
+Version: 0.0.1.0
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
